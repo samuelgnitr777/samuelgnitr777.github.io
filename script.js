@@ -225,7 +225,7 @@ $(function(){
 
         $("#typed").typed({
             strings: ["Samuel","You can call me Sam","Nice to met ya!"], //Strings to display when typing
-            typeSpeed: 500,
+            typeSpeed: 70,
             backDelay: 600,
             loop: true,
             // defaults to false for infinite loop
